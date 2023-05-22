@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+ h2 {
+  color: #ff0000;
+ }
+
+ div {
+  border-left: 5px solid grey;
+  margin: 4px;
+  background-color: silver;
+  width: 50;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 25px
+ }
